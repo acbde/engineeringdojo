@@ -1,5 +1,5 @@
 #include <math.h>
 
 double newtan(double x){
-  return sin(x)/cos(x);
+  return sin(xx)/cos(x);
 }
